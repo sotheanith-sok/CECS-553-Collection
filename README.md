@@ -8,7 +8,7 @@ A collection of assignments for the CECS 553 class.
  - [Matlab](https://www.mathworks.com/products/matlab.html)
  - [NumPy](https://numpy.org/)
  
-## Author
+## Authors
  - [Sotheanith Sok](https://github.com/sotheanith)
 
 ## Course
