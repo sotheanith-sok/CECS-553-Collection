@@ -1,0 +1,5 @@
+4. Calculate the area of each gray rock and save the result in a file. Explain how you did that.
+Ans: We can calculate the area of each gray rock by counting the number of pixels belong to each gray rocks based on the label that we generate with bwlabeln function.
+
+5. Estimate the center of each gray rock and plot the image with red stars on the calculated centers. Explain how you found the centers.
+Ans: We can caluclate the center of each gray rock by suming each pixels coordinate seperately (sum of row indexs and sum of coloumn indexs) and divide the result of the number of point.

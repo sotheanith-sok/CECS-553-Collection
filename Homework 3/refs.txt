@@ -1,0 +1,7 @@
+https://homepages.inf.ed.ac.uk/rbf/HIPR2/roberts.htm
+https://towardsdatascience.com/canny-edge-detection-step-by-step-in-python-computer-vision-b49c3a2d8123
+https://iopscience.iop.org/article/10.1088/1742-6596/490/1/012020/pdf
+https://homepages.inf.ed.ac.uk/rbf/HIPR2/log.htm
+https://theailearner.com/2019/05/25/laplacian-of-gaussian-log/
+https://iq.opengenus.org/laplacian-filter/
+http://www.cse.psu.edu/~rtc12/CSE486/lecture11.pdf

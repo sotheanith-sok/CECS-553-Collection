@@ -69,7 +69,7 @@ for i in range(1, len(labels)):
 
 
 # 5. Estimate the center of each gray rock and plot the image with red stars on the calculated centers. Explain how you found the centers
-# We can caluclate the center of each gray rock by suming each pixels coordinate seperately (sum of row indexs and sum of coloumn indexs) and divide the result of the number of point.
+# We can caluclate the center of each gray rock by suming each components (index of rows and coloums) and divide the result of the number of point.
 
 # Calculate the center for each connected components
 labels = np.unique(image)[1:]

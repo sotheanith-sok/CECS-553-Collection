@@ -1,0 +1,232 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{collins:2007}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=1055ddf72248ab77182da568f7c6758d}{%
+           family={Collins},
+           familyi={C\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Penn State University}%
+      }
+      \strng{namehash}{1055ddf72248ab77182da568f7c6758d}
+      \strng{fullhash}{1055ddf72248ab77182da568f7c6758d}
+      \strng{bibnamehash}{1055ddf72248ab77182da568f7c6758d}
+      \strng{authorbibnamehash}{1055ddf72248ab77182da568f7c6758d}
+      \strng{authornamehash}{1055ddf72248ab77182da568f7c6758d}
+      \strng{authorfullhash}{1055ddf72248ab77182da568f7c6758d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CSE/EE486 Computer Vision I}
+      \field{month}{9}
+      \field{title}{Lecture 11: LoG and DoG Filters}
+      \field{year}{2007}
+      \verb{urlraw}
+      \verb http://www.cse.psu.edu/~rtc12/CSE486/lecture11.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.cse.psu.edu/~rtc12/CSE486/lecture11.pdf
+      \endverb
+    \endentry
+    \entry{fisher-perkins-walker-wolfart:2003}{misc}{}
+      \name{author}{4}{}{%
+        {{hash=bfa1f44b84774d284df5f2d669a342f2}{%
+           family={Fisher},
+           familyi={F\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=464bf1b7a0c7da75befc4f62ce7bf873}{%
+           family={Perkins},
+           familyi={P\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6a75f62b8a57ae0506542830e35000fa}{%
+           family={Walker},
+           familyi={W\bibinitperiod},
+           given={Ashley},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c90d1438ba0c8ae47e7357d8faf52a12}{%
+           family={Wolfart},
+           familyi={W\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee9b15a15c27c60b52c1d7e2001148fe}
+      \strng{fullhash}{5fca46dc6b1bf20f5f8fb785dd8506a5}
+      \strng{bibnamehash}{ee9b15a15c27c60b52c1d7e2001148fe}
+      \strng{authorbibnamehash}{ee9b15a15c27c60b52c1d7e2001148fe}
+      \strng{authornamehash}{ee9b15a15c27c60b52c1d7e2001148fe}
+      \strng{authorfullhash}{5fca46dc6b1bf20f5f8fb785dd8506a5}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{homepages.inf.ed.ac.uk}
+      \field{title}{Feature Detectors - Roberts Cross Edge Detector}
+      \field{year}{2003}
+      \verb{urlraw}
+      \verb https://homepages.inf.ed.ac.uk/rbf/HIPR2/roberts.htm
+      \endverb
+      \verb{url}
+      \verb https://homepages.inf.ed.ac.uk/rbf/HIPR2/roberts.htm
+      \endverb
+    \endentry
+    \entry{fisher-perkins-walker-wolfart-2:2003}{misc}{}
+      \name{author}{4}{}{%
+        {{hash=bfa1f44b84774d284df5f2d669a342f2}{%
+           family={Fisher},
+           familyi={F\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=464bf1b7a0c7da75befc4f62ce7bf873}{%
+           family={Perkins},
+           familyi={P\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6a75f62b8a57ae0506542830e35000fa}{%
+           family={Walker},
+           familyi={W\bibinitperiod},
+           given={Ashley},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c90d1438ba0c8ae47e7357d8faf52a12}{%
+           family={Wolfart},
+           familyi={W\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee9b15a15c27c60b52c1d7e2001148fe}
+      \strng{fullhash}{5fca46dc6b1bf20f5f8fb785dd8506a5}
+      \strng{bibnamehash}{ee9b15a15c27c60b52c1d7e2001148fe}
+      \strng{authorbibnamehash}{ee9b15a15c27c60b52c1d7e2001148fe}
+      \strng{authornamehash}{ee9b15a15c27c60b52c1d7e2001148fe}
+      \strng{authorfullhash}{5fca46dc6b1bf20f5f8fb785dd8506a5}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{homepages.inf.ed.ac.uk}
+      \field{title}{Gaussian Smoothing}
+      \field{year}{2003}
+      \verb{urlraw}
+      \verb https://homepages.inf.ed.ac.uk/rbf/HIPR2/gsmooth.htm
+      \endverb
+      \verb{url}
+      \verb https://homepages.inf.ed.ac.uk/rbf/HIPR2/gsmooth.htm
+      \endverb
+    \endentry
+    \entry{parikh:2020}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=2455a13e73322a15fb30f377a78ce600}{%
+           family={Parikh},
+           familyi={P\bibinitperiod},
+           given={Dishant},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{2455a13e73322a15fb30f377a78ce600}
+      \strng{fullhash}{2455a13e73322a15fb30f377a78ce600}
+      \strng{bibnamehash}{2455a13e73322a15fb30f377a78ce600}
+      \strng{authorbibnamehash}{2455a13e73322a15fb30f377a78ce600}
+      \strng{authornamehash}{2455a13e73322a15fb30f377a78ce600}
+      \strng{authorfullhash}{2455a13e73322a15fb30f377a78ce600}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{OpenGenus IQ: Computing Expertise & Legacy}
+      \field{month}{6}
+      \field{title}{Edge Detection using Laplacian Filter}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://iq.opengenus.org/laplacian-filter/
+      \endverb
+      \verb{url}
+      \verb https://iq.opengenus.org/laplacian-filter/
+      \endverb
+    \endentry
+    \entry{sofiane-sahir:2019}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=eea3c1410755f2e4680db08cdd30c4f3}{%
+           family={Sahir},
+           familyi={S\bibinitperiod},
+           given={Sofiane},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Towards Data Science}%
+      }
+      \strng{namehash}{eea3c1410755f2e4680db08cdd30c4f3}
+      \strng{fullhash}{eea3c1410755f2e4680db08cdd30c4f3}
+      \strng{bibnamehash}{eea3c1410755f2e4680db08cdd30c4f3}
+      \strng{authorbibnamehash}{eea3c1410755f2e4680db08cdd30c4f3}
+      \strng{authornamehash}{eea3c1410755f2e4680db08cdd30c4f3}
+      \strng{authorfullhash}{eea3c1410755f2e4680db08cdd30c4f3}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Towards Data Science}
+      \field{month}{1}
+      \field{title}{Canny Edge Detection Step by Step in Python — Computer Vision}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://towardsdatascience.com/canny-edge-detection-step-by-step-in-python-computer-vision-b49c3a2d8123
+      \endverb
+      \verb{url}
+      \verb https://towardsdatascience.com/canny-edge-detection-step-by-step-in-python-computer-vision-b49c3a2d8123
+      \endverb
+    \endentry
+    \entry{scipy-examples:2021}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=dcdfb5b00489d42db3d4b6344c40b8a8}{%
+           family={Sphinx},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{dcdfb5b00489d42db3d4b6344c40b8a8}
+      \strng{fullhash}{dcdfb5b00489d42db3d4b6344c40b8a8}
+      \strng{bibnamehash}{dcdfb5b00489d42db3d4b6344c40b8a8}
+      \strng{authorbibnamehash}{dcdfb5b00489d42db3d4b6344c40b8a8}
+      \strng{authornamehash}{dcdfb5b00489d42db3d4b6344c40b8a8}
+      \strng{authorfullhash}{dcdfb5b00489d42db3d4b6344c40b8a8}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SciPy Documentation}
+      \field{title}{scipy.ndimage.gaussian_filter}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://docs.scipy.org/doc/scipy/reference/generated/scipy.ndimage.gaussian_filter.html
+      \endverb
+      \verb{url}
+      \verb https://docs.scipy.org/doc/scipy/reference/generated/scipy.ndimage.gaussian_filter.html
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
