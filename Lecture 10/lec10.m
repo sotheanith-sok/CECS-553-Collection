@@ -39,8 +39,7 @@ title('Dilated image');
 
 [B,L] = bwboundaries(bwDilated,'Noholes');  % Find the contour/boundaries in img
 boundary = B{1};
-figure, 
-imshow(bwDilated); hold on,
+figure, imshow(bwDilated); hold on,
 plot(boundary(:,2),boundary(:,1),'g','LineWidth',3);
 
 %% Sharpenning an image

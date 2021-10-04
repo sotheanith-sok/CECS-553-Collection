@@ -1,0 +1,140 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{dc:2000}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=94859e9d8559d3c4b01bc3c3366d4584}{%
+           family={Ghuneim},
+           familyi={G\bibinitperiod},
+           given={Abeer\bibnamedelima George},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{94859e9d8559d3c4b01bc3c3366d4584}
+      \strng{fullhash}{94859e9d8559d3c4b01bc3c3366d4584}
+      \strng{bibnamehash}{94859e9d8559d3c4b01bc3c3366d4584}
+      \strng{authorbibnamehash}{94859e9d8559d3c4b01bc3c3366d4584}
+      \strng{authornamehash}{94859e9d8559d3c4b01bc3c3366d4584}
+      \strng{authorfullhash}{94859e9d8559d3c4b01bc3c3366d4584}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{http://www.imageprocessingplace.com/downloads_V3/root_downloads/tutorials/contour_tracing_Abeer_George_Ghuneim/}
+      \field{title}{Defining Connectivity}
+      \field{year}{2000}
+      \verb{urlraw}
+      \verb http://www.imageprocessingplace.com/downloads_V3/root_downloads/tutorials/contour_tracing_Abeer_George_Ghuneim/connectivity.html
+      \endverb
+      \verb{url}
+      \verb http://www.imageprocessingplace.com/downloads_V3/root_downloads/tutorials/contour_tracing_Abeer_George_Ghuneim/connectivity.html
+      \endverb
+    \endentry
+    \entry{mnt:2000}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=94859e9d8559d3c4b01bc3c3366d4584}{%
+           family={Ghuneim},
+           familyi={G\bibinitperiod},
+           given={Abeer\bibnamedelima George},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{94859e9d8559d3c4b01bc3c3366d4584}
+      \strng{fullhash}{94859e9d8559d3c4b01bc3c3366d4584}
+      \strng{bibnamehash}{94859e9d8559d3c4b01bc3c3366d4584}
+      \strng{authorbibnamehash}{94859e9d8559d3c4b01bc3c3366d4584}
+      \strng{authornamehash}{94859e9d8559d3c4b01bc3c3366d4584}
+      \strng{authorfullhash}{94859e9d8559d3c4b01bc3c3366d4584}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{http://www.imageprocessingplace.com/downloads_V3/root_downloads/tutorials/contour_tracing_Abeer_George_Ghuneim/}
+      \field{title}{Moore-Neighbor Tracing}
+      \field{year}{2000}
+      \verb{urlraw}
+      \verb http://www.imageprocessingplace.com/downloads_V3/root_downloads/tutorials/contour_tracing_Abeer_George_Ghuneim/moore.html
+      \endverb
+      \verb{url}
+      \verb http://www.imageprocessingplace.com/downloads_V3/root_downloads/tutorials/contour_tracing_Abeer_George_Ghuneim/moore.html
+      \endverb
+    \endentry
+    \entry{sta:2000}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=94859e9d8559d3c4b01bc3c3366d4584}{%
+           family={Ghuneim},
+           familyi={G\bibinitperiod},
+           given={Abeer\bibnamedelima George},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{94859e9d8559d3c4b01bc3c3366d4584}
+      \strng{fullhash}{94859e9d8559d3c4b01bc3c3366d4584}
+      \strng{bibnamehash}{94859e9d8559d3c4b01bc3c3366d4584}
+      \strng{authorbibnamehash}{94859e9d8559d3c4b01bc3c3366d4584}
+      \strng{authornamehash}{94859e9d8559d3c4b01bc3c3366d4584}
+      \strng{authorfullhash}{94859e9d8559d3c4b01bc3c3366d4584}
+      \field{extraname}{3}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{http://www.imageprocessingplace.com/downloads_V3/root_downloads/tutorials/contour_tracing_Abeer_George_Ghuneim/}
+      \field{title}{Square Tracing Algorithm}
+      \field{year}{2000}
+      \verb{urlraw}
+      \verb http://www.imageprocessingplace.com/downloads_V3/root_downloads/tutorials/contour_tracing_Abeer_George_Ghuneim/square.html
+      \endverb
+      \verb{url}
+      \verb http://www.imageprocessingplace.com/downloads_V3/root_downloads/tutorials/contour_tracing_Abeer_George_Ghuneim/square.html
+      \endverb
+    \endentry
+    \entry{gct:2010}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=368653a230edbdabab3b6edc813dbe39}{%
+           family={Toussaint},
+           familyi={T\bibinitperiod},
+           given={Godfried},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{368653a230edbdabab3b6edc813dbe39}
+      \strng{fullhash}{368653a230edbdabab3b6edc813dbe39}
+      \strng{bibnamehash}{368653a230edbdabab3b6edc813dbe39}
+      \strng{authorbibnamehash}{368653a230edbdabab3b6edc813dbe39}
+      \strng{authornamehash}{368653a230edbdabab3b6edc813dbe39}
+      \strng{authorfullhash}{368653a230edbdabab3b6edc813dbe39}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{http://www-cgrl.cs.mcgill.ca/~godfried/teaching/}
+      \field{title}{CHAPTER 2 GRIDS, CONNECTIVITY AND CONTOUR TRACING}
+      \field{year}{2010}
+      \verb{urlraw}
+      \verb http://www-cgrl.cs.mcgill.ca/~godfried/teaching/mir-reading-assignments/Chapter-2-Grids-Connectivity-Contour-Tracing.pdf
+      \endverb
+      \verb{url}
+      \verb http://www-cgrl.cs.mcgill.ca/~godfried/teaching/mir-reading-assignments/Chapter-2-Grids-Connectivity-Contour-Tracing.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
