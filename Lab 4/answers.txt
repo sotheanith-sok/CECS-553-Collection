@@ -1,0 +1,2 @@
+4. Leave one-fold aside for testing and the remaining 9 folds for training and validation. Explain how you did that.
+Ans: Use KFold function from sklearn to split the data into 10 folds. KFold returns 10 tuples of training_ids and testing_ids. testing_ids is around 10% of the entire data. Use the first 9 folds to find the best n_neighbors. Then, use the best n_neighbors and the last fold to calculate the accuracy.  

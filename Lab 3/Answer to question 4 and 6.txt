@@ -1,0 +1,25 @@
+4. Choose a random air balloon in your binary image, change the pixels inside to white. Explain how you did that.
+Ans:
+    1. Start with binary image contains edges.
+    2. Using 'label' function to label all connected components. 
+    3. Find the number of connected components and randomly pick one.
+    4. Find all pixels that have that the component's label.
+    5. Find the center by averaging the x and y independently.
+    6. Start from the center and use 'flood_fill' function to fill every pixel with the component's label until you reach the edge.  
+
+6. Move the balloon 20 pixels in any direction of a 45-degree angle. Explain how you did that
+Ans:
+    1. Start with binary image contains edges.
+    2. Using 'label' function to label all connected components. 
+    3. Find the number of connected components and randomly pick one.
+    4. Find all pixels that have that the component's label.
+    5. Find the center by averaging the x and y independently.
+    6. Start from the center and use 'flood_fill' function to fill every pixel with the component's label until you reach the edge.  
+    7. Find all pixels that have the component's label.
+    8. Translate all pixels in a random direction by 20 pixels.
+    9. Rotate all pixels by 45-degree in the clockwise direction with respect to the center of the balloon using Pythagorean Identities.
+        Formula: 
+            newX = cos(θ)*(x-cx) - sin(θ)*(y-cy) + cx
+            newY = sin(θ)*(x-cx) + cos(θ)*(y-cy) + cy
+
+    

@@ -1,12 +1,12 @@
 # Fdb version 3
-["biber main"] 1633307181 "main.bcf" "main.bbl" "main" 1633322798
-  "main.bcf" 1633322793 107554 2978e1879be3fc0ea72e0d3210bffe13 "pdflatex"
+["biber main"] 1633307181 "main.bcf" "main.bbl" "main" 1633916772
+  "main.bcf" 1633916772 107554 2978e1879be3fc0ea72e0d3210bffe13 "pdflatex"
   "refs.bib" 1633306928 1475 c88eac90640b7594bfa6f8545ecaa2ff ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1633322792 "d:/Workstation/CECS-553-Collection/Homework 4/main.tex" "main.pdf" "main" 1633322798
-  "d:/Workstation/CECS-553-Collection/Homework 4/main.tex" 1633322798 7129 f1f581391e649e6a0a1c720c4cf1034b ""
+["pdflatex"] 1633916772 "d:/Workstation/CECS-553-Collection/Homework 4/main.tex" "main.pdf" "main" 1633916772
+  "d:/Workstation/CECS-553-Collection/Homework 4/main.tex" 1633916771 7103 81b94213d521d1e09084f663749bdec6 ""
   "e:/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1631320237 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "e:/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1631320788 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "e:/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1631324385 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -71,13 +71,13 @@
   "fig3.png" 1633304659 48256 af5f37748d3e0a72df609c68b0481c21 ""
   "fig4.png" 1633305084 18945 3c53c904a4edc79e818291dbca3b3523 ""
   "fig5.png" 1633305134 19325 387d76fbc3e2f2fa9e016a284e3a9b0d ""
-  "main.aux" 1633322793 3859 bcfe37f6f17cb21f848412f45430ba07 "pdflatex"
+  "main.aux" 1633916772 3859 bcfe37f6f17cb21f848412f45430ba07 "pdflatex"
   "main.bbl" 1633307182 6248 5ef9cbb3d55a6de9a208bd97cef87aa1 "biber main"
-  "main.run.xml" 1633322793 2299 33d8dfeb54dc04cad67f98afaa10639d "pdflatex"
-  "main.tex" 1633322798 7129 f1f581391e649e6a0a1c720c4cf1034b ""
+  "main.run.xml" 1633916772 2299 33d8dfeb54dc04cad67f98afaa10639d "pdflatex"
+  "main.tex" 1633916771 7103 81b94213d521d1e09084f663749bdec6 ""
   (generated)
-  "main.aux"
   "main.log"
-  "main.pdf"
+  "main.aux"
   "main.run.xml"
   "main.bcf"
+  "main.pdf"

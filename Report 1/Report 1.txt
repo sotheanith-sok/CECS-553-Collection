@@ -1,0 +1,38 @@
+Report 1
+Members: Sotheanith Sok
+
+1. What is the topic of your project?
+Ans: Examine the performance of the latest YOLO algorithm when provided with a limited dataset.  
+
+2. What algorithms are you planning to use?
+Ans: YOLOv5 by Ultralytics
+
+3. What publications have you read? (Should be at least two)
+Ans: 
+    YOLOv1 Paper: 
+        Joseph Redmon and Santosh Kumar Divvala and Ross B. Girshick and Ali Farhadi (2015). You Only Look Once: Unified, Real-Time Object Detection. CoRR, abs/1506.02640.
+    YOLOv2 & YOLO9000:
+        Joseph Redmon and Ali Farhadi (2016). YOLO9000: Better, Faster, Stronger. CoRR, abs/1612.08242.
+    YOLOv3:
+        Joseph Redmon and Ali Farhadi (2018). YOLOv3: An Incremental Improvement. CoRR, abs/1804.02767.
+    YOLOv5:
+        Glenn Jocher, Alex Stoken, Ayush Chaurasia, Jirka Borovec, NanoCode012, TaoXie, Yonghye Kwon, Kalen Michael, Liu Changyu, Jiacong Fang, Abhiram V, Laughing, tkianai, yxNONG, Piotr Skalski, Adam Hogan, Jebastin Nadar, imyhxy, Lorenzo Mammana, … wanghaoyang0106. (2021). ultralytics/yolov5: v6.0 - YOLOv5n 'Nano' models, Roboflow integration, TensorFlow export, OpenCV DNN support (v6.0). Zenodo. https://doi.org/10.5281/zenodo.5563715
+        
+4. What are the steps you need to take to finish the project?
+Ans: 
+    Tentative Steps:
+        1. Decide on the possible classes.
+        2. Collect images (125 images per class).
+        3. Annotate images.
+        4. Decide and train a pre-trained model on the custom dataset. 
+        5. Collect the model's performances when given 25%, 50%, 75%, and 100% of the dataset.
+        6. Prepare the paper and the presentation.
+
+5. What are your plans for each week?
+Ans: 
+    Tentative Schedule:
+        10/23 - 10/30   :   Do step 1, 2, and 3
+        10/30 - 11/13   :   Do step 4 and 5
+        11/13 - end     :   Do step 6
+
+
