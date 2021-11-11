@@ -1,0 +1,11 @@
+Question:   How would you find the boundary of the diffusion of each dye? (Note: If you have multiple answers in mind, break them apart and explain each one separately.) Explain each solution/algorithm in detail.
+
+Answers:    The following steps are used to find diffusion boundaries of each dyes:
+            1.  Extract color channels corresponding to each dyes (Red: channel 0, Green: channel 1).
+            2.  Convert single-channel images to binary images using thresholding (Red: 0.06, Green: 0.06)
+            3.  Connect neighboring pixels by filling small holes less than a certain pixels (Red: 64 pixels, Green: 128 pixels).
+            4.  Remove noises by eliminating connected components that are less than a certain threshold (Red: 20000 pixels, Green: 64 pixels).
+            5.  Soften edges by dilating the image with a certain matrix (Red: 3x3, Green: 4x4).
+            6.  Find edges using Roberts Cross filter. 
+
+

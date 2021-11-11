@@ -1,0 +1,41 @@
+Question:   How would you create your model to classify the digits? (Note: If you have multiple answers in mind, break them apart and explain each one separately.) Explain each solution/algorithm in detail.
+
+Answers:    The following steps are used to create a model that is able to recognize handwritten digits.
+            1.  Load data and labels from mat files (data: 784x2500, labels: 1x2500).
+            2.  Reshape data and labels (data:2500x784, labels:2500)
+            3.  Perform K-Fold Cross Validation to split the dataset into 15 folds.
+            4.  For each fold,...
+                4.1.  Split the train dataset into a train dataset and a validation dataset. Keep the test dataset the same.
+                4.2.  Load all three datasets into Dataset classes to convert all values to Tensor. 
+                4.3.  Load train_dataset into a Dataloader class to perform batch training.
+                4.4.  Define the model, the loss function, and the optimizer.
+                4.5.  At each epoch, ...
+                    4.5.1.  Feed data from train_dataloader into the model to produce predicted labels.
+                    4.5.2.  Use the loss function to calculate a loss between predicted labels and truth labels.
+                    4.5.3.  Calculate gradients of each model's weights with respect to the loss.
+                    4.5.4.  Use the optimizer to update a model's weights.
+                    4.5.5.  Calculate train_loss and train_accuracy. 
+                    4.5.6.  Validate the model with val_dataset and calculate val_loss and val_accuracy.
+                    4.5.7.  If val_loss has not decreased in the last 10 epochs, end the training process. 
+                    4.5.8.  Else, train the model until the final epoch. 
+                4.6.  Test the model with test_dataset and calculate test_loss and test_accuracy.
+            5.  Calculate the average loss and the average accuracy for all three datasets across all folds. 
+
+            Design details:
+            •   Model: Fully-connected Model
+                    Given: in_features, num_classes
+                    Model(
+                        Linear(in_features=in_features, out_features=32)
+                        ReLU()
+                        Linear(in_features=32, out_features=32)
+                        ReLU()
+                        Linear(in_features=32, out_features=num_classes)
+                    )
+                Ans: As shown above, the model that is used to recognize handwritten digits is a fully connected model composed of three hidden layers. As with any fully-connected model, each node in a layer is connected to all nodes in the next layer. ReLU is the activation function for the first and the second hidden layers and it serves to introduce nonlinearity into the model. 
+
+            •   Loss function: Cross-Entropy Loss
+                Ans: Cross-Entropy is the loss function of choice as it is designed to measure differences between classes. The implementation of Cross-Entropy loss in PyTorch utilizes the sigmoid function which ensures all values fall between 0 and 1 and the negative log loss where loss goes to 0 as input approaches one.  
+
+           	•   Optimizer: Adam
+                Ans: Adam is an adaptive optimizer that works well in most cases. It utilizes an adaptive learning rate where each weight has its own learning rate and momentum where learning rates get adjusted based on the gradient direction and time.   
+
