@@ -9,7 +9,7 @@ A collection of assignments for the CECS 553 class.
  - [NumPy](https://numpy.org/)
  
 ## Authors
- - [Sotheanith Sok](https://github.com/sotheanith)
+ - [Sotheanith Sok](https://github.com/sotheanith-sok)
 
 ## Course
  - [CECS 553 - Machine Vision](http://catalog.csulb.edu/preview_course_nopop.php?catoid=5&coid=40043)
